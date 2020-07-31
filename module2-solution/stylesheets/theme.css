@@ -1,0 +1,27 @@
+
+/********** Base styles **********/
+
+
+
+
+
+
+/**Small Devices**/
+@media(max-width: 767px){
+
+}
+
+
+
+/**Medium Devices**/
+@media(min-width:768px) and (max-width:991px){
+
+}
+
+
+
+
+/**Large Devices**/
+@media(min-width: 992px){
+
+}
